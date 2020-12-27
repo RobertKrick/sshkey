@@ -35,3 +35,6 @@ wget https://download2.rapid7.com/download/InsightVM/Rapid7Setup-Linux64.bin
 chmod a+x Rapid7Setup-Linux64.bin
 cd
 
+# follow the steps from the Guide
+sudo reboot
+
